@@ -1,2 +1,1 @@
-www.kohl.dpdns.org
-kohl.dpdns.org
+도메인 : www.kohl.dpdns.org
